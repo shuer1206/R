@@ -96,6 +96,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.MainContentVie
         /**
          * 触摸就可以拖拽
          */
+
         private ImageView mIvTouch;
         /**
          * 是否选中
